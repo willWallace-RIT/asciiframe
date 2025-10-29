@@ -1,5 +1,6 @@
 color ascii image pipe for headless display
-
+similar to https://github.com/mitchaiet/ASCIITerm
+but different
 TODO 
   proper CLEARING
   imagein imageout options
@@ -10,3 +11,6 @@ xvfb
 xwd
 ffmpeg
 python-pillow
+
+to run:
+./asciiterm.sh <program to display>
