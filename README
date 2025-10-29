@@ -3,7 +3,7 @@ similar to https://github.com/mitchaiet/ASCIITerm
 but different
 TODO 
   proper CLEARING
-  imagein imageout options
+  imagein imageout options (right now the output from the program is on the buffer size set in the sh, the python size is the desired out for both size set)
   some way to handle kibbie piping
 reqs
 
