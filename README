@@ -1,0 +1,12 @@
+color ascii image pipe for headless display
+
+TODO 
+  proper CLEARING
+  imagein imageout options
+  some way to handle kibbie piping
+reqs
+
+xvfb
+xwd
+ffmpeg
+python-pillow
